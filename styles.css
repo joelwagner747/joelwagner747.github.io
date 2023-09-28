@@ -1,0 +1,56 @@
+.contact-section h2 {
+    margin-bottom: 20px;
+    /* Adds spacing below the header */
+    font-size: 24px;
+    /* Sets the font size */
+    font-weight: bold;
+    /* Makes the text bold */
+    color: #333;
+    /* Sets the color */
+}
+
+.contact-links a {
+    display: block;
+    margin: 10px 0;
+    /* Spacing between links */
+    color: #333;
+    /* Text color */
+    text-decoration: none;
+    /* Remove underline */
+    font-size: 30px;
+    /* Adjust as per your preference */
+}
+
+.contact-links a:hover {
+    color: #0077b5;
+    /* Color on hover (LinkedIn blue in this case) */
+}
+
+.content-container {
+    padding: 20px;
+    /* Adds space around the content inside the container */
+    background-color: #f8f9fa;
+    /* A light gray background, adjust the color as needed */
+    border-radius: 8px;
+    /* Rounded corners for a smoother appearance */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    /* Optional: Adds a slight shadow for depth */
+}
+
+
+.contact-links li {
+    text-align: left;
+    font-size: 24px;
+    /* Adjust this value as desired */
+    line-height: 1.5;
+    /* Adjust this value based on your design preference */
+}
+
+.highlighted-text {
+    background-color: #f8f9fa;
+    /* Light gray background; adjust the color as desired */
+    padding: 2px 5px;
+    /* Reducing the padding around the text */
+    border-radius: 1px;
+    /* Optional: Gives a slight rounded corner */
+}
